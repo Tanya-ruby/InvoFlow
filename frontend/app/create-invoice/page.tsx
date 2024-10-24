@@ -1,5 +1,5 @@
 import InvoiceTemplate from '../components/invoice-template'
 
-export default function CreateInvoicePage() {
+export default function CreateInvoicePa() {
   return <InvoiceTemplate />
 }
